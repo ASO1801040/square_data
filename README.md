@@ -1,5 +1,5 @@
 # square_data.csv
-## 四角形判定用CSVデータ
+## 四角形判定用CSVデータには以下のカラムデータが存在する
 ### a_length	辺aの長さ
 ### b_length	辺bの長さ
 ### c_length	辺cの長さ
